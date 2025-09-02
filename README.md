@@ -1,23 +1,2 @@
 # About-Me-HTML
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
-</head>
-<bo <h1> Welcome to my web page!</h1>
-    <p> I wrote this in HTML </p> 
-    <a href="https://code-you.org/">I'm a student at Code:You</a>
-    <ul>
-       <li>My favorite color is pink</li> 
-        <li>I love online shopping</li> 
-       <li>I love caribbean food</li> 
 
-
-    </ul> 
-    <img src="https://code-you.org/wp-content/uploads/2023/07/codeyou-logo-wink.gif"
-alt="Code:You Logo">
-    
-</body>
-</html>
